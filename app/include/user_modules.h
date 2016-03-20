@@ -79,6 +79,7 @@
 //debug modules
 //#define LUA_USE_MODULES_SWTMR_DBG //SWTMR timer suspend Debug functions
 
+#define LUA_USE_MODULES_TEST
 
 #endif  /* LUA_CROSS_COMPILER */
 #endif	/* __USER_MODULES_H__ */
